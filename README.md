@@ -1,2 +1,2 @@
 # HTML_vjezba_tjedan-3
-Vjezba Githuba - RAPS
+Vjezba GitHub-a - RAPS
